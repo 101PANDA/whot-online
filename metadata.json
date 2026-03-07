@@ -1,0 +1,5 @@
+{
+  "name": "Whot Online",
+  "description": "A real-time multiplayer Nigerian card game (Whot) built with Next.js and Socket.io.",
+  "requestFramePermissions": []
+}
