@@ -46,6 +46,7 @@ interface Room {
   currentRound: number;
   eliminatedPlayerIds: string[];
   playerRanking: { username: string, rank: number, score?: number }[];
+  gameState?: GameState;
 }
 
 interface GameState {
